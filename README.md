@@ -1,2 +1,2 @@
 # checkers-game
-
+For presentation
